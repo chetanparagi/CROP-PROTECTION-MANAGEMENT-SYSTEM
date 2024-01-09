@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="icon" type="image/png" href="assets/img/logo.png" />
-    <title>Agriculture Portal</title>
+    <title>Crop Protection Management System</title>
 
   <!--     Fonts and icons     -->
   
@@ -46,7 +46,7 @@
         <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
           <li class="nav-item dropdown">
             <a href="index.php" class="navbar-brand mr-lg-5 text-white">
-                               <img src="assets/img/nav.png" />
+
             </a>
           </li>
         </ul>
@@ -144,7 +144,7 @@
         <div class="container">
           <div class="row row-header">
             <div class="col-12 col-sm-6">
-              <h1 class="text-white">Agriculture Portal</h1>
+              <h1 class="text-white">Crop Protection Management System</h1>
               <p class="text-white">
                A True Farmer's Friend.
               </p>
@@ -400,7 +400,7 @@
 
 <script>
 
-const apiKey = "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";   // Enter your apikey here
+const apiKey = "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";   // Enter your apikey here
 const chatbox = document.getElementById("quote");
 const authorN = document.getElementById("author");
 
